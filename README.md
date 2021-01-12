@@ -1,1 +1,1 @@
-# Capstone3 Project
+# Sign Language MNIST
